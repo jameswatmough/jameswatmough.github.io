@@ -5,13 +5,7 @@ mathjax: true
 ---
 
 
-playing with math $$x = y$$
+Lecture notes (all works in progress!)
 
-and 
-
-$$
-\begin{align}
-x &= y \\
-x &= 2y
-\end{align}
-$$
++ [Differential Equations](https://jameswatmough.github.io/DifferentialEquations)
++ [Mathematical Ecology](https://jameswatmough.github.io/IntroductoryMathematicalBiology)
